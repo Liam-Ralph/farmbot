@@ -1,0 +1,86 @@
+Old Command List
+create account
+inventory
+mine
+chop
+buy <item>
+sell <item>
+build <item>
+plant <item>
+daily
+report
+users
+
+New Command List
+NORMAL
+--Farming and Related--
+inventory
+mine
+chop
+buy <item> <quantity>
+sell <item> <quantity>
+build <item> <quantity>
+plant <crop> <quantity>
+daily
+report
+--Settings--
+my info
+name <name>
+color <color>
+--Utility--
+your info
+announcement
+view stored data
+view update logs
+request account deletion <reason>
+--Other--
+rate <user>
+leaderboard <type>
+-command count or net worth
+help
+ADMIN
+run daily
+view blacklist
+blacklist <id>
+-add if not there, remove if there
+clear data <id>
+update <field>
+change name <id> <name>
+personal message <id> <message>
+new announcement <announcement>
+get users/list users
+new update log <version> <text>
+clear update logs
+view deletion requests
+grant deletion request <id>
+deny deletion request <id>
+admin help
+
+User Account File Data
+Name
+Command Count
+Color
+Read Announcement
+Claimed Daily
+Seen Report
+Money
+Rock
+Wood
+Axes
+Pickaxes
+Seeds
+Wheat
+Corn
+Peanuts
+Melons
+Potatoes
+Empty Fields
+Wheat Fields
+Corn Fields
+Peanut Fields
+Melon Fields
+Potato Fields
+Mines
+Printers
+Fence Level
+Report Text
