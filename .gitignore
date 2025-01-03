@@ -1,7 +1,7 @@
-/Admin Data
-/Deletion Requests
+/Admin Data/*
+/Deletion Requests/*
 /discord_secrets.py
-/oldfarmbot.py
-/Personal Messages
-/User Data
+/old_main.py
+/Personal Messages/*
+/User Data/*
 /__pycache__
