@@ -1,3 +1,5 @@
+## This project has been archived.
+
 # FarmBot
 ### Released July 2022
 ### Version 2.0 (in progress)
